@@ -1,5 +1,0 @@
-{{#user}}
-Name: Abhishek Chauhan
-Skills: Python, C++, HTML, CSS, JS
-Email: abhishek.chauhan2107@gmail.com
-{{/user}}
